@@ -6,8 +6,6 @@
 //  Copyright (c) 2020 NGA. All rights reserved.
 //
 
-#ifndef sf_wkt_ios_sf_wkt_ios_h
-#define sf_wkt_ios_sf_wkt_ios_h
-
-
-#endif
+#import <sf_wkt_ios/SFWTGeometryReader.h>
+#import <sf_wkt_ios/SFWTGeometryTypeInfo.h>
+#import <sf_wkt_ios/SFWTGeometryWriter.h>

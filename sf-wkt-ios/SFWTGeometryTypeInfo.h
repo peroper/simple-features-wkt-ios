@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "SFGeometryTypes.h"
+#import <sf_ios/sf_ios.h>
 
 /**
  * Geometry type info
